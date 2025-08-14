@@ -1,4 +1,4 @@
-## Olá, me chamo Murilo!
+## Olá, me chamo Murilo Wisch!
 - 🧒🏻 Estudo programação 
 - 📖 Estou me profissionalizando em Java
 - 😵‍💫 Aprendendo sobre API
