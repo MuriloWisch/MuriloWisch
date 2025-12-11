@@ -3,9 +3,3 @@
 - 📖 Estou me profissionalizando em Java
 - 😵‍💫 Aprendendo sobre API
 - 👽 Todo conhecimento é valido!
-
-
-
-                    
-
-
