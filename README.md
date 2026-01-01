@@ -1,5 +1,5 @@
 ## Olá, me chamo Murilo Wisch!
-- 🧒🏻 Estudo programação 
+- 🧒🏻 Estudo programação  
 - 📖 Estou me profissionalizando em Java/SpringBoot
 - 😵‍💫 Aprendendo sobre API
-- 👽 Todo conhecimento é valido!
+- 👽 Sempre buscando novas informções
