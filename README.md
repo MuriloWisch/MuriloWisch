@@ -4,4 +4,3 @@
 - 😵‍💫 Aprendendo sobre API
 - 👽 Sempre buscando novas informções!
 
-
