@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Murilo Wisch</h1>
 
 <p align="center">
-  Desenvolvedor focado em Java • Spring Boot • APIs • Autenticação
+  Desenvolvedor focado em Java • Spring Boot • Microsserviços • APIs Rest
 </p>
 
 <p align="center">
