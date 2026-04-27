@@ -13,3 +13,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,angular,typescript" />
 </p>
+
+## 📚 Atualmente estudando
+
+- Autenticação com JWT e Spring Security
+- Principios Solid
+- Boas práticas de API REST
+- Docker para aplicações Java
+- Arquitetura em camadas
