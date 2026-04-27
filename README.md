@@ -11,13 +11,18 @@
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,angular,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,docker,git,github,react,typescript,scss,tailwind,postman,maven,hibernate,postgres" />
 </p>
 
 ## 📚 Atualmente estudando
 
 - Autenticação com JWT e Spring Security
-- Principios Solid
+- Principios SOLID
 - Boas práticas de API REST
 - Docker para aplicações Java
 - Arquitetura em camadas
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/murilowisch/
+- Email: murilowisch.dev@gmail.com
