@@ -18,6 +18,7 @@
 
 - Autenticação com JWT e Spring Security
 - Principios SOLID
+- Microsserviços
 - Boas práticas de API REST
 - Docker para aplicações Java
 - Arquitetura em camadas
