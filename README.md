@@ -11,7 +11,7 @@
 ## 🧠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,docker,git,github,react,typescript,postgres,scss,tailwind,postman,maven,hibernate" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,mysql,docker,git,github,react,typescript,scss,tailwind,postman,maven,hibernate" />
 </p>
 
 ## 📚 Atualmente estudando
